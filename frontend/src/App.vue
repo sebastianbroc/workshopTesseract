@@ -14,6 +14,9 @@ export default {
 </script>
 <style>
 body {
-  background: rgb(40,40,40);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1)),url("@/assets/bg.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 </style>
